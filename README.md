@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 Problem Solver | 🌐 Community Contributor <br/>
+  SIH'25 Winner | 🚀 Passionate Flutter Developer | 🧠 Problem Solver | 🌐 Community Contributor <br/>
   🎓 B.Tech in Computer Science Engineering (2026)<br/>
   🏫 Government Engineering College, Bilaspur, Chhattisgarh, India
 </p>
