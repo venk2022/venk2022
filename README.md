@@ -31,6 +31,14 @@
 
 ## 🧳 Projects
 
+### 🏫 Easy ERP – Smart India Hackathon 2025 (National Champions) [🔗](https://github.com/TLE-Smashers/EasyERP-SIH)
+- Architected a **low-cost, serverless ERP** using **Next.js**, **Google Sheets** as database, and **Google Apps Script**, reducing deployment & maintenance costs by ~90%.
+- Built a **smart attendance system** with **geofencing, live location, and photo verification**, cutting attendance errors by ~50%.
+- Unified **Google Workspace tools** (Docs, Sheets, Drive, Gmail) to automate workflows, reducing development time and operational overhead by ~40%.
+- Implemented core modules: **Admissions, Library Management, Hostel Allocation, Accounts, Faculty Management** with real-time notifications.
+- Added advanced features: **Multilingual support (English & Hindi)**, **AI chatbot for user queries**, and **inter-institution resource sharing**.
+
+
 ### 💬 Chatzy – AI Chatbot App [🔗](https://github.com/venk2022/Chatzy-AI-Assistant-App)
 - Built an intelligent chatbot application using **Flutter**, **Firebase**, **Firestore**, and **Gemini API** integration.
 - Implemented real-time chat functionality, user authentication, and conversation history storage.
